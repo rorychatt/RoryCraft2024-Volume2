@@ -6,5 +6,8 @@ world
 world_nether
 world_the_end
 plugins/*
+.console_history
 !plugins/floodgate-spigot.jar
 !plugins/Geyser-Spigot.jar
+!plugins/LuckPerms-5.4.137.jar
+!plugins/Plugman-2.4.1.jar
