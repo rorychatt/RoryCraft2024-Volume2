@@ -11,3 +11,8 @@ plugins/*
 !plugins/Geyser-Spigot.jar
 !plugins/LuckPerms-5.4.137.jar
 !plugins/PlugMan-2.4.1.jar
+!plugins/AuthMe.jar
+!plugins/EssentialsX-Spawn.jar
+!plugins/EssentialsX.jar
+!plugins/WorldEdit.jar
+!plugins/VoiceChatPlugin.jar
