@@ -6,3 +6,5 @@ world
 world_nether
 world_the_end
 plugins/*
+!plugins/floodgate-spigot.jar
+!plugins/geyser-spigot.jar
