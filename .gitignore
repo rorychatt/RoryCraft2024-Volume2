@@ -7,7 +7,7 @@ world_nether
 world_the_end
 plugins/*
 .console_history
-.usercache.json
+usercache.json
 !plugins/floodgate-spigot.jar
 !plugins/Geyser-Spigot.jar
 !plugins/LuckPerms-5.4.137.jar
