@@ -18,6 +18,7 @@ usercache.json
 !plugins/WorldEdit.jar
 !plugins/VoiceChatPlugin.jar
 !plugins/SkinsRestorer.jar
+!plugins/item-nbt-api-plugin-2.13.1.jar
 
 !plugins/AuthMe/
 plugins/AuthMe/*
