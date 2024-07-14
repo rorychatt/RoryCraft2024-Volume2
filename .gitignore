@@ -19,6 +19,7 @@ usercache.json
 !plugins/VoiceChatPlugin.jar
 !plugins/SkinsRestorer.jar
 !plugins/item-nbt-api-plugin-2.13.1.jar
+!plugins/TAB-4.1.6.jar
 
 !plugins/AuthMe/
 plugins/AuthMe/*
@@ -31,3 +32,5 @@ plugins/Essentials/*
 !plugins/SkinsRestorer/
 plugins/SkinsRestorer/*
 !plugins/SkinsRestorer/config.yml
+
+!plugins/TAB/
