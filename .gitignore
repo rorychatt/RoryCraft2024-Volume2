@@ -17,6 +17,7 @@ usercache.json
 !plugins/EssentialsX.jar
 !plugins/WorldEdit.jar
 !plugins/VoiceChatPlugin.jar
+!plugins/SkinsRestorer.jar
 
 !plugins/AuthMe/
 plugins/AuthMe/*
