@@ -26,6 +26,7 @@ crash-reports
 !plugins/AuthMe/
 plugins/AuthMe/*
 !plugins/AuthMe/config.yml
+!plugins/AuthMe/welcome.txt
 
 !plugins/Essentials/
 plugins/Essentials/*
