@@ -1,5 +1,5 @@
-MAX_RAM="10000M"
-MIN_RAM="4000M"
+MAX_RAM="8000M"
+MIN_RAM="2000M"
 
 JVM_ARGS="-XX:+UseG1GC -XX:+UnlockExperimentalVMOptions -XX:MaxGCPauseMillis=100 -XX:+DisableExplicitGC"
 SERVER_JAR="paper.jar"
